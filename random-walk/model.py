@@ -74,4 +74,4 @@ def drunkTest(numTrials):
         print (f'Max = {max(distances)} Min = {min(distances)}')
 
 
-drunkTest(10000)
+drunkTest(10)
